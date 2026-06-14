@@ -1,0 +1,20 @@
+[
+  {
+    "productName": "Sushi & Sashimi",
+    "imageUrl": "",
+    "alt": "Sushi & Sashimi — product photography",
+    "source": "fallback"
+  },
+  {
+    "productName": "Hibachi Grill",
+    "imageUrl": "",
+    "alt": "Hibachi Grill — product photography",
+    "source": "fallback"
+  },
+  {
+    "productName": "Teriyaki & Tempura",
+    "imageUrl": "",
+    "alt": "Teriyaki & Tempura — product photography",
+    "source": "fallback"
+  }
+]
